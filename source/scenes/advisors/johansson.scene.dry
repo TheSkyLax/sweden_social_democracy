@@ -1,13 +1,13 @@
-title: Gustav Radbruch
+title: Morgan Johansson
 is-pinned-card: true
 tags: advisor
-card-image: img/portraits/RadbruchGustav.jpg
-view-if: radbruch_advisor = 1
+card-image: img/portraits/Morgan Johansson.jpg
+view-if: johansson_advisor = 1
 new-page: true 
 
-= Gustav Radbruch
+= Morgan Johansson
 
-Gustav Radbruch is a renowned legal scholar and long-time SPD justice minister.
+Morgan Johansson is the incumbent social democratic minister of justice, asylum and migration
 
 
 - @judiciary_
