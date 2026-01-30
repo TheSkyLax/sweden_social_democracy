@@ -1,0 +1,15 @@
+title: A New Day in Sweden
+subtitle: Has Social democracy triumphed?
+tags: event
+priority: 3
+view-if: hindenburg_dead = 1 and president != "Hitler" and president != "Göring" and president != "Seldte"
+max-visits: 1
+on-arrival: {!
+!}
+new-page: true
+go-to: game_over_2019
+
+= A New Day in Sweden
+
+After the end of the refugee crisis and the parliamentary election of 2018, it seems as if an era of history is closing. The worst years of crisis are over, and the Sweden Democrats days are numbered. Perhaps Sweden will finally enter into a new era of genuine prosperity...
+
